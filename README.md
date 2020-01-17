@@ -25,6 +25,7 @@
 * [Simple File Server](https://github.com/pitchpoint-solutions/sfs) is an Openstack Swift compatible distributed object store that can serve and securely store billions of large and small files using minimal resources.
 * [logagent](https://www.npmjs.com/package/@sematext/logagent) a log shipper to parse and ship logs to Elasticsearch including bulk indexing, disk buffers and log format detection. 
 * [ItemsAPI](https://github.com/itemsapi/itemsapi) simplified search API for web and mobile (based on Elasticsearch and Express.js)
+* [Open Distro alerting](https://opendistro.github.io/for-elasticsearch-docs/docs/alerting/) a community-driven 100% open source distribution of standalone plugin for elasticsearch alerting .
 
 ## Elasticsearch developer tools and utilities
  
